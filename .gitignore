@@ -1,0 +1,14 @@
+.DS_Store
+*.png
+*.pyc
+F16/res.json
+dubins-car/test.lp
+*.mp4
+*.gif
+*.json
+RLTests/output
+RLTests/Acceleration1D/output
+*.txt
+*.pkl
+.ipynb_checkpoints
+
